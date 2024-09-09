@@ -1,0 +1,26 @@
+.navbar.bg-primary {
+  background-color: #050508 !important; /* Cambia este valor por el color que prefieras */
+  border-radius: 1rem;
+}
+
+.navbar .nav-link {
+    color: white !important;
+  }
+  .navbar .nav-link.active {
+    color: rgb(8, 8, 8) !important;
+  }
+
+  body {
+    background: -webkit-linear-gradient(165deg,#2C3E50, #1A1A40);/* Chrome 10-25, Safari 5.1-6 */                         
+     background: linear-gradient(165deg,#2C3E50, #1A1A40,);/* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */                                             
+  }
+
+  #clientes-table {
+    background-color: white; /* Cambia el fondo a blanco */
+  }
+
+  .fw-bold.w-auto{
+    color: white;
+  }
+
+  
