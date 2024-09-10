@@ -23,4 +23,7 @@
     color: white;
   }
 
+  #name {
+    color: white; /* Cambia el color del texto a rojo */
+}
   
